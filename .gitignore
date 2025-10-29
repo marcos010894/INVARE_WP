@@ -1,0 +1,19 @@
+# Volumes do Docker (dados locais)
+db_data/
+wordpress_data/
+mysql-backup/
+
+# Arquivo de ambiente com senhas
+.env
+
+# Logs do Docker
+*.log
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~
